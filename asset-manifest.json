@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-booking/static/css/main.e3045eb8.css",
+    "main.js": "/front-booking/static/js/main.e7ff8cdb.js",
+    "index.html": "/front-booking/index.html",
+    "main.e3045eb8.css.map": "/front-booking/static/css/main.e3045eb8.css.map",
+    "main.e7ff8cdb.js.map": "/front-booking/static/js/main.e7ff8cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3045eb8.css",
+    "static/js/main.e7ff8cdb.js"
+  ]
+}
